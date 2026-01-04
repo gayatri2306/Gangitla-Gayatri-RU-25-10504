@@ -39,7 +39,7 @@ When the program is executed, the terminal displays the following:
 
 
 ### Program Execution Screenshot
-![Execution Screenshot](output.png)
+![Execution Screenshot](output.png.png)
 
 *The screenshot above shows the input (seconds), the resulting time conversion, and the iteration counts proving both loops reached the same conclusion.*
 
